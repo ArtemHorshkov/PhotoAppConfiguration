@@ -1,0 +1,10 @@
+gateway:
+  ip: "192.168.56.1"
+
+token:
+  expiration_time: 86400000
+  secret: hdsfgiuyo4i560348957ahsdfhkjdhfg897sd9fg6sdf78g6
+
+login:
+  url:
+    path: "/users/login"
