@@ -3,7 +3,7 @@ gateway:
 
 token:
   expiration_time: 86400000
-  secret: hdsfgiuyo4i560348957ahsdfhkjdhfg897sd9fg6sdf78g6
+  secret: hdsfgiuyo4i560348957ahsdfhkjdhfg897sd9fg6sdf78g5
 
 login:
   url:
